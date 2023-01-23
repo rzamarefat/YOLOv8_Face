@@ -33,8 +33,13 @@ python infer.py
 1. I made a dataset of over 20k images containing people.
 2. I get ground-truth bounding boxes using MTCNN
 3. Trained YOLOv8 on the dataset for face detection
+```
+Please note that the dataset and the training procedure should be improved for boosting the performance.
+```
+
 
 ### Refs
 ```
+A big :thumbsup: for ultralytics
 https://github.com/ultralytics/ultralytics
 ```
