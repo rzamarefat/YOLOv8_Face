@@ -7,6 +7,33 @@
 </p>
 
 ### Usage
+- Make a pip env
+```
+python3 -m venv ./venv
+```
+
+- Activate the env
+```
+source ./venv/bin/activate
+```
+
+- Install ultralytics
+
+```
+pip install ultralytics
+```
+
+- Use infer.py module for inference
+
+```
+python infer.py
+```
+
+### Training process
+1. I made a dataset of over 20k images containing people.
+2. I get ground-truth bounding boxes using MTCNN
+3. Trained YOLOv8 on the dataset for face detection
+
 ### Refs
 ```
 https://github.com/ultralytics/ultralytics
