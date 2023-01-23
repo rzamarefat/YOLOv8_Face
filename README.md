@@ -40,6 +40,4 @@ Please note that the dataset and the training procedure should be improved for b
 
 ### Refs
 A big :thumbsup: for ultralytics
-```
-https://github.com/ultralytics/ultralytics
-```
+[ultralytics Pages](https://github.com/ultralytics/ultralytics)
